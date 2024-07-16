@@ -4,9 +4,7 @@
 # 4로 나눴을 때 1 이면 long 2 면 long long
 a=int(input("정수 입력 : "))
 
-
-if(a//4):
-    n=a//4
-    print("long "*n,"int")
+n=a//4
+print("long "*n,"int")
 
 #// 몫 연산자

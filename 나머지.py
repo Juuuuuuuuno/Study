@@ -5,9 +5,10 @@ a=int(input("값 입력 : "))
 b=int(input("값 입력 : "))
 c=int(input("값 입력 : "))
 
-print( ((a+b)%c) )
-print( ((a%c)+(b%c))%c )
-print( ((a%c)*(b%c))%c )
-print( ((a%c)*(b%c))%c )
+print( (a+b)%c )
+
+#print( ((a%c)+(b%c))%c )
+#print( ((a%c)*(b%c))%c )
+#print( ((a%c)*(b%c))%c )
 
 #중간에 10번째 줄 안나오는 오류가 있었는데 오탈자였음 해결

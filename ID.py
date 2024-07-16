@@ -9,5 +9,4 @@ if(a==b):
     print(a+"??!")
 else:
     print(a)
-
 #if문 사용이 if(){} 인 줄 알았으나 이게 아니었음 if(): 이거임

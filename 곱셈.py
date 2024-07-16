@@ -13,7 +13,7 @@
 a=int(input("값 입력 : "))
 b=int(input("값 입력 : "))
 c=b/100
-d=(b%100)/10
+d=(b%100)/10 
 e=(b%10)/1
 
 print(a*int(e))
